@@ -42,9 +42,4 @@ python todo.py
 This project is **free to use, modify and share** under the MIT License.
 
 
----
 
-
-
-Would you like me to prepare **Day 4’s idea and code** as well so you can keep the series rolling?
-```
